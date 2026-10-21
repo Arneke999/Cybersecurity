@@ -39,7 +39,12 @@
 
 ## PortSwigger Web Security Academy
 - [x] Server-side vulnerabilities - exploiting path traversal, access control, authentication, SSRF (server-side request forgery), file uploads, OS command injection, SQL injection
-- [ ] Cross-site scripting (XSS) - in progress
+- [ ] SQLi labs - in progress
+- [ ] authentication labs - in progress
+- [ ] SSRF labs - in progress
+- [ ] Path traversal labs - in progress
+- [ ] File upload vulnerabilities - in progress
+- [ ] Cross-site scripting (XSS) labs - in progress
 
 ---
 
