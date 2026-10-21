@@ -38,7 +38,8 @@
 ---
 
 ## PortSwigger Web Security Academy
-- [ ] Server-side vulnerabilities - in progress
+- [x] Server-side vulnerabilities - exploiting path traversal, access control, authentication, SSRF (server-side request forgery), file uploads, OS command injection, SQL injection
+- [ ] Cross-site scripting (XSS) - in progress
 
 ---
 
@@ -46,4 +47,4 @@
 Did these years ago before I understood what I was doing. Revisiting properly to actually learn the mechanics.
 - [ ] Vulnversity
 - [ ] Basic Pentesting
-- [ ] Blue
+- [ ] Blue: Tried again but the room has issues with the meterpreter session coming through. I had to go way beyond the scope of the room (multiple different tries throughout multiple days) to try and get it but no luck. 
