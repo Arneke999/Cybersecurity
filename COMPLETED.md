@@ -28,6 +28,7 @@
 - [x] Sakura Room - metadata + reverse image search
 - [x] Google Dorking - basic dork commands
 - [x] OhSINT - finding networks with wigle
+- [x] Missing Person - reverse image search + linking new information to old information
 
 ---
 
@@ -39,12 +40,12 @@
 
 ## PortSwigger Web Security Academy
 - [x] Server-side vulnerabilities - exploiting path traversal, access control, authentication, SSRF (server-side request forgery), file uploads, OS command injection, SQL injection
-- [ ] SQLi labs - in progress
-- [ ] authentication labs - in progress
-- [ ] SSRF labs - in progress
-- [ ] Path traversal labs - in progress
-- [ ] File upload vulnerabilities - in progress
-- [ ] Cross-site scripting (XSS) labs - in progress
+- Planned learnings paths:
+    - [ ] SQL injection
+    - [ ] authentication vulnerabilities
+    - [ ] SSRF
+    - [ ] Path traversal
+    - [ ] File upload vulnerabilities
 
 ---
 
