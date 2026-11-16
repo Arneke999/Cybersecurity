@@ -23,6 +23,7 @@
 - [x] SQL Injection - SQL basics + basic types of injections
 - [x] Easy Peasy - nmap + gobuster + privesc
 - [x] simple CTF - privesc
+- [x] Basic Pentesting - web hacking + privesc: I tried running hydra based off the letters J and K but I should've used enum4linux first to find the full usernames. Using scp to transfer over linPEAS is way easier than trying to send it through a python server.
 
 ### OSINT
 - [x] Sakura Room - metadata + reverse image search
@@ -52,5 +53,4 @@
 ## Redo queue
 Did these years ago before I understood what I was doing. Revisiting properly to actually learn the mechanics.
 - [ ] Vulnversity
-- [ ] Basic Pentesting
-- [ ] Blue: Tried again but the room has issues with the meterpreter session coming through. I had to go way beyond the scope of the room (multiple different tries throughout multiple days) to try and get it but no luck. 
+- [ ] Blue: Tried again but the room has issues with the meterpreter session coming through. I tried different payloads and different settings along multiple different tries throughout multiple days but no luck. Seems to be a known issue with the room.

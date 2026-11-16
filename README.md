@@ -1,6 +1,6 @@
 # offsec-notes
 
-First-year Informatics student at **KU Leuven**, learning cybersecurity while publishing my progress.
+Second-year Informatics student at **KU Leuven**, learning cybersecurity while publishing my progress.
 
 This is not a course or a tutorial. It's the reference files I actually use while doing labs: checklists, cheatsheets, and a running log of everything I break, read, or figure out. Cleaned up just enough to share.
 
@@ -20,16 +20,16 @@ More files land as I hit new topics.
 
 ## Currently learning
 
-- **PortSwigger Web Academy** - Server-Side vulns -> Authentication -> Access Control -> SSRF -> XSS
+- **PortSwigger Web Academy**
 - Working toward first **bug bounty** submissions
 
 ---
 
 ## Where to find me
 
-- TryHackMe - `<https://tryhackme.com/p/Arneke999>`
-- Hack The Box - `<https://profile.hackthebox.com/profile/019d5332-6731-7207-b4bc-b07d938833c8>`
-- TikTok - `<https://www.tiktok.com/@arneke999>`
+- TryHackMe - <https://tryhackme.com/p/Arneke999>
+- Hack The Box - <https://profile.hackthebox.com/profile/019d5332-6731-7207-b4bc-b07d938833c8>
+- TikTok - <https://www.tiktok.com/@arneke999>
 
 ---
 
